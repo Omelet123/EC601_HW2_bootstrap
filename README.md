@@ -12,4 +12,9 @@ Following the Guide, I build a firebase project and connect it with friendlychat
 At first, it just shows the basic webpage which do not have any function.<br>
 ![webpage](https://github.com/Omelet123/EC601_HW2_bootstrap/tree/master/image/WechatIMG999.jpeg)<br>
 In order to realize the functions of website, we need to change codes in main.js.<br>
-
+![login](https://github.com/Omelet123/EC601_HW2_bootstrap/tree/master/image/login.jpeg)<br>
+![message](https://github.com/Omelet123/EC601_HW2_bootstrap/tree/master/image/sendmessage.jpeg)<br>
+![database](https://github.com/Omelet123/EC601_HW2_bootstrap/tree/master/image/database.jpeg)<br>
+To make sure the safety of friendly chat, we write the database rules and storage rules.<br>
+At the end, we deploy our app using firebasw static hosting. It generate a address for me. I can use it to visit my app.<br>
+Hosting URL: https://friendlychat-1fb3b.firebaseapp.com
